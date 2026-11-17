@@ -1,0 +1,3 @@
+customtkinter
+gspread
+oauth2client
